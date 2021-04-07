@@ -1,33 +1,19 @@
-## My solutions to Leetcode
+## Leetcode 刷题记录
 
-I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/all/) in this repo. Every problem will be solved in C++; part of the problems will be solved in Java also. I will try my best to support more language in the future :)
+【大事记】：
+2021-04-07 Fork自liuyubobo的项目，主要想法是不想从0起步，有他这份是很好的写作模版✏️，主要是便于自己的整理和输出记录📝；
 
-Please feel free to contact me if you have any questions with this repo:)
 
-email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
----
+
+----------
 
 大家好，欢迎大家来到我的 **Leetcode 算法题解**代码仓。在这个代码仓中，近乎每一个问题都会使用多种方式进行解决，同时标注了简明的算法思想，时间复杂度和空间复杂度。所有问题都会使用C++进行解决，各别问题支持Java语言和Python语言。
 
 由于 Leetcode 如今已经问题量巨大，所以很多同学可能会刷起来毫无头绪。推荐大家可以使用 Leetcode 在2017年底推出的 [**Leetcode Explore**](https://leetcode.com/explore/)，这个模块分门别类地整理了Leetcode上的问题，是一个很好的刷 Leetcode 的指引。Leetcode Explore模块上的题解，可以参考我的代码仓：[**Play Leetcode Explore**](https://github.com/liuyubobobo/Play-Leetcode-Explore)
 
 
-如果对代码仓有任何问题，欢迎联系我：）
 
-**个人网站**：[liuyubobobo.com](http://liuyubobobo.com) [废弃重整中...]
-
-**电子邮件**：[liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
-
-**微博**: [刘宇波bobo http://weibo.com/liuyubobobo](http://weibo.com/liuyubobobo)
-
-**知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
-
-**知乎专栏：**[是不是很酷 https://zhuanlan.zhihu.com/liuyubobobo](https://zhuanlan.zhihu.com/liuyubobobo)
-
-**个人公众号：是不是很酷**：）
-
-![QRCode](qrcode.png)
 
 
 ## 其他相关代码仓
