@@ -4,6 +4,8 @@
 2021-04-07 Fork自liuyubobo的项目，主要想法是不想从0起步，有他这份是很好的写作模版✏️，主要是便于自己的整理和输出记录📝；
 
 
+如果涉及到侵权，欢迎联系我，如果对刷题感性起，欢迎comment.
+
 
 
 ----------
@@ -11,7 +13,6 @@
 大家好，欢迎大家来到我的 **Leetcode 算法题解**代码仓。在这个代码仓中，近乎每一个问题都会使用多种方式进行解决，同时标注了简明的算法思想，时间复杂度和空间复杂度。所有问题都会使用C++进行解决，各别问题支持Java语言和Python语言。
 
 由于 Leetcode 如今已经问题量巨大，所以很多同学可能会刷起来毫无头绪。推荐大家可以使用 Leetcode 在2017年底推出的 [**Leetcode Explore**](https://leetcode.com/explore/)，这个模块分门别类地整理了Leetcode上的问题，是一个很好的刷 Leetcode 的指引。Leetcode Explore模块上的题解，可以参考我的代码仓：[**Play Leetcode Explore**](https://github.com/liuyubobobo/Play-Leetcode-Explore)
-
 
 
 
